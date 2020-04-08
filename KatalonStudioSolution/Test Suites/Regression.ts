@@ -13,13 +13,13 @@
    <testCaseLink>
       <guid>3e797f8b-20f6-4cda-9f00-39ffd0c6559c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Account Management/Your Cart/Existing User - Checkout - Fully Charged</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>e982be20-e873-405d-b67d-8b7d4c347f98</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Category/Search with Criteria</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -58,7 +58,7 @@
    <testCaseLink>
       <guid>135c70ed-e490-4fca-bcd3-299a482d8b52</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Category/Add to Cart</testCaseId>
    </testCaseLink>
    <testCaseLink>
